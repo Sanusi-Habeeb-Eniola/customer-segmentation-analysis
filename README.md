@@ -152,11 +152,3 @@ Based on the customer segments identified:
 
 ---
 
-## 👤 Author
-
-**Sanusi Habeeb Eniola**
-Data Analytics | Customer Segmentation | Machine Learning | Python
-
----
-
-⭐ *If you find this project useful, feel free to star the repository and connect!*
