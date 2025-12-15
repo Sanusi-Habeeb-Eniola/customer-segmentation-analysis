@@ -92,15 +92,17 @@ The project includes visualizations such as:
 * **Scatter plots** showing customer clusters
 * **Bar charts** comparing average spending across segments
 * **Cluster distribution charts**
+* 
 
-Example visualizations:
+## 📈 Sample Visualizations
 
-```
-Customer Segments (Scatter Plot)
-Average Spending per Cluster (Bar Chart)
-```
+Below are some key visualizations from the analysis:
 
-All visualizations can be viewed by running the notebook.
+![Customer segments](images/cs12.png)
+![The elbow method for optimal K](images/cs11.png)
+![Histogram for income](images/cs8.png)
+
+All other visualizations can be viewed by running the notebook.
 
 ---
 
